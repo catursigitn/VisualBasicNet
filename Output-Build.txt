@@ -1,0 +1,10 @@
+﻿1>------ Build started: Project: Perpustakaan, Configuration: Debug x86 ------
+1>  Perpustakaan -> E:\00VS2015\Perpustakaan\Perpustakaan\bin\x86\Debug\Perpustakaan.exe
+Building Perpustakaan...
+2>------ Publish started: Project: Perpustakaan, Configuration: Debug x86 ------
+Connecting to 'E:\00VS2015\Advance\'...
+Publishing files...
+Publish success.
+E:\00VS2015\Advance\
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Publish: 1 succeeded, 0 failed, 0 skipped ==========
